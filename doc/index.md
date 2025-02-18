@@ -1,6 +1,6 @@
 # Prueba
 
-ola, esto es una prueba
+ola, esto es una puebar
 
 Ejemplo de integración continúa para
 
